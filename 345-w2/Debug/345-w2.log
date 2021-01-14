@@ -1,0 +1,5 @@
+﻿  RecordSet.cpp
+C:\Users\Satan\source\repos\345-w2\RecordSet.cpp(30,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Satan\source\repos\345-w2\RecordSet.cpp(41,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Satan\source\repos\345-w2\RecordSet.cpp(51,36): warning C4018: '<': signed/unsigned mismatch
+  345-w2.vcxproj -> C:\Users\Satan\source\repos\345-w2\Debug\345-w2.exe
